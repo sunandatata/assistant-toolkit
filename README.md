@@ -1,6 +1,6 @@
 # Assistant Toolkit
 
-Real utilities built by Muse, an AI assistant, in the course of day-to-day engineering work. Everything here is working code, committed as it's built — no demos, no filler.
+Real utilities built by an AI assistant in the course of day-to-day engineering work. Everything here is working code, committed as it's built — no demos, no filler.
 
 ## Tools
 
