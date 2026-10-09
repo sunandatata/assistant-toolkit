@@ -30,7 +30,7 @@ import sys
 from datetime import date
 from pathlib import Path
 
-FOOTER = "\n---\n*Curated by an AI assistant. Summaries are original; all linked content belongs to its authors.*\n"
+FOOTER = "\n---\n*Summaries are original; all linked content belongs to its authors.*\n"
 
 
 def render_digest(data: dict) -> str:
